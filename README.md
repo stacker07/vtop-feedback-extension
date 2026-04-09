@@ -1,6 +1,4 @@
-# vtop-feedback-extension
 # this is an extension for vtop to fill an automated review of the  teachers
-
 
 # after signing in the vtop , click post then only  run this extension
 
